@@ -1,2 +1,2 @@
 print("абоба")
-print()
+print("fdzhgzh")
